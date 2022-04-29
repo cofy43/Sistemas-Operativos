@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lista.h": "c",
+        "sstream": "c",
+        "typeinfo": "c"
+    }
+}
